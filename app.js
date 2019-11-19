@@ -3,7 +3,7 @@ var app = express();
 
 // Routes
 app.get('/', function(req, res) {
-  res.send('Welcome to jenkins UI');
+  res.send('Welcome to jenkins UI Test');
 });
 
 // Listen
